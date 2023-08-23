@@ -1,0 +1,52 @@
+/**********Selectors**********/
+h1{
+    color: #66FCF1;font-family: cursive;
+}
+h3{
+    color: #66FCF1;font-family: cursive;
+}
+h4{
+    color: #66FCF1;
+    font-family: cursive;
+}
+h5{
+    color: #66FCF1;font-family: cursive;
+}
+p{
+    color: antiquewhite;
+}
+li{
+    color: antiquewhite;
+}
+
+/**********Home**********/
+#home_div1{
+    background-color: #66FCF1;  text-shadow: 3px 3px 3px #ababab;height: 300px;padding-top: 50px;
+}
+#home_div1 h1{
+    color: #0B0C10;
+}
+#photo{
+    height: 200px; width: 200px; align-self: center; position: absolute; margin-left: 60%;
+}
+#home_div2{
+    height: 300px;padding-top: 50px;
+}
+#home_div2 h1{
+    color: whitesmoke; text-shadow: 3px 3px 3px #ababab;
+}
+
+/**********Skills**********/
+#skills_div img{
+    height: 100px; width: 100px; 
+}
+
+/**********Experience**********/
+#experience_div img{
+    height: 100px; width: 200px;
+}
+
+/**********Contact**********/
+#contact_div img{
+    height: 25px; width: 25px
+}
